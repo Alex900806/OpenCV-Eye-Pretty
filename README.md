@@ -56,3 +56,5 @@
 - 學習使用 face_recognition 庫進行人臉識別，並標記人臉位置
 
 ## 效果展示
+
+![image](https://github.com/Alex900806/OpenCV-Eye-Pretty/blob/main/images/imgTest.png)
